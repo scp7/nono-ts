@@ -24,7 +24,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/always-further/nono"
+    "url": "git+https://github.com/always-further/nono.git",
+    "directory": "npm/darwin-arm64"
   },
   "os": [
     "darwin"
